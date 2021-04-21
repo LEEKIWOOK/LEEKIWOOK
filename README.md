@@ -5,5 +5,5 @@
 **Bioinformatician**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leek0502@gmail.com)](mailto:leek0502@gmail.com)
-[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=bimlkw.medium.com)](bimlkw.medium.com)
+[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://bimlkw.medium.com)](https://bimlkw.medium.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/기욱-이-7793807b/)](https://www.linkedin.com/in/기욱-이-7793807b/)
